@@ -42,3 +42,4 @@ build/
 /.mvn/
 /.idea/
 /.idea/
+/test-output/
