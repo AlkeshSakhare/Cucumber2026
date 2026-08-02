@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="9.315" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-02T13:48:08.855819300Z">
+<testcase classname="This is Test Feature" name="Open Site and verify page" time="8.984">
+<system-out><![CDATA[
+When I open "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login".passed
+Then I verify Login details displayed.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
